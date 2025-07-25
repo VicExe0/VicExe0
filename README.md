@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm VicExe0</h1>
+<h1 align="center">Hi, I'm VicExe</h1>
 - 🌱 I’m currently learning **Game dev, React.js, Blender, AI, DeepLearning, Neural Network, Advanced Math**
 
 <h3 align="left">Languages and Tools:</h3>
